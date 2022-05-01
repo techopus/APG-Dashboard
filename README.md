@@ -12,4 +12,4 @@ Use following command to run it locally:
 
 PATH: panel serve Apartment_prices_germany.ipynb
 
-Note:'rentgermany.csv' data has been taken from kaggle. 
+(Note:'rentgermany.csv' data has been taken from kaggle.) 
