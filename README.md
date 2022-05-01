@@ -11,3 +11,5 @@ With all the dependecies installed that has been used you are ready to run havin
 Use following command to run it locally:
 
 panel serve Apartment_prices_germany.ipynb
+
+Note:'rentgermany.csv' data has been taken from kaggle. 
