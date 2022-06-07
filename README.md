@@ -8,7 +8,7 @@ With all the dependecies installed that has been used you are ready to run havin
 
 ![apartment_price_dashboard](https://user-images.githubusercontent.com/92953798/166127413-8a3145c7-46d1-4af5-a67f-0959c7396039.png)
 
-## Use following command to run it locally:
+### Use following command to run it locally:
 
 PATH: panel serve Apartment_prices_germany.ipynb
 
